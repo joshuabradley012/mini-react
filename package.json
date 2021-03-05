@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Mini React-like framework for simple applications",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuabradley012/mini-react.git"
+  },
+  "author": "Josh Bradley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuabradley012/mini-react/issues"
+  },
+  "homepage": "https://github.com/joshuabradley012/mini-react#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
